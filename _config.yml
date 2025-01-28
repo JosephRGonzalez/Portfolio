@@ -12,9 +12,9 @@ title                    : "Joseph R Gonzalez | Portfolio"
 title_separator          : "-"
 name                     : &name "Joseph R Gonzalez"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://josephrgonzalez.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "JosephRGonzalez/Portfolio"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,10 +24,12 @@ author:
   avatar           : "profile.png"
   name             : "Joseph R Gonzalez"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hi, I’m Joseph Gonzalez, a senior Computer Science major at the University of Houston, graduating in May 2025. I’m skilled in C++, Python, SQL, and more, with a passion for software development and data science.
+  
+  With experience improving AI models as an AI Training Analyst, I’m eager to bring my technical skills and creativity to impactful projects in Software Engineering or Data Science."
   location         : "Houston, Texas"
   employer         : "University of Houston"
-  uri              : # URL
+  uri              : "cs.uh.edu"
   email            : "jrgonz40@cougarnet.uh.edu" 
 
   # Academic websites
@@ -58,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/joseph-gonzalez-724b49240"
+  linkedin         : "joseph-gonzalez-724b49240
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
