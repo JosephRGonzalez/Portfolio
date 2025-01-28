@@ -21,7 +21,7 @@ repository               : "JosephRGonzalez/Portfolio"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   name             : "Joseph R Gonzalez"
   pronouns         : # example: "she/her"  
   bio              : "Hi, I’m Joseph Gonzalez, a senior Computer Science major at the University of Houston, graduating in May 2025. I’m skilled in C++, Python, SQL, and more, with a passion for software development and data science.
