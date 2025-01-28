@@ -28,6 +28,7 @@ author:
     Hi, I'm Joseph Gonzalez, a senior Computer Science major at the University of Houston, graduating in May 2025.
 
     I'm skilled in C++, Python, SQL, and more, with a passion for software development and data science. With experience improving AI models as an AI Training Analyst, I'm eager to bring my technical skills and creativity to impactful projects in Software Engineering or Data Science.
+  location         : "Houston, Texas"
   employer         : "University of Houston"
   uri              : "cs.uh.edu"
   email            : "jrgonz40@cougarnet.uh.edu" 
@@ -150,7 +151,7 @@ social:
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-LCW4NJ62FZ"
 
 
 # Reading Files
