@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Joseph R Gonzalez | Portfolio"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,6 +17,9 @@ Here, you’ll find a showcase of my projects, skills, and achievements, reflect
 What’s Inside:
 ======
 📂 Projects: Explore my [work](https://github.com/JosephRGonzalez), from coding applications to data visualizations.
+
 🛠️ Skills: See the tools and technologies I specialize in.
+
 🎓 Resume: View my [resume](https://josephrgonzalez.github.io/Portfolio/files/resume.pdf) to learn more about my background.
+
 ✉️ Let’s Connect: Reach out via email or [LinkedIn](www.linkedin.com/in/joseph-gonzalez-724b49240)!
