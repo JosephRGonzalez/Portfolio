@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Joseph R Gonzalez"
   pronouns         : # example: "she/her"  
-  bio              : "Hi, Im Joseph Gonzalez, a senior Computer Science major at the University of Houston, graduating in May 2025. 
+  bio              : |
+Hi, I'm Joseph Gonzalez, a senior Computer Science major at the University of Houston, graduating in May 2025. 
   
-  Im skilled in C++, Python, SQL, and more, with a passion for software development and data science. With experience improving AI models as an AI Training Analyst, Im eager to bring my technical skills and creativity to impactful projects in Software Engineering or Data Science."
-  location         : "Houston, Texas"
+  I'm skilled in C++, Python, SQL, and more, with a passion for software development and data science. With experience improving AI models as an AI Training Analyst, I'm eager to bring my technical skills and creativity to impactful projects in Software Engineering or Data Science.
   employer         : "University of Houston"
   uri              : "cs.uh.edu"
   email            : "jrgonz40@cougarnet.uh.edu" 
