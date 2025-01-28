@@ -24,7 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Joseph R Gonzalez"
   pronouns         : # example: "she/her"  
-  bio              : "Hi, Im Joseph Gonzalez, a senior Computer Science major at the University of Houston, graduating in May 2025. Im skilled in C++, Python, SQL, and more, with a passion for software development and data science. With experience improving AI models as an AI Training Analyst, Im eager to bring my technical skills and creativity to impactful projects in Software Engineering or Data Science."
+  bio              : "Hi, Im Joseph Gonzalez, a senior Computer Science major at the University of Houston, graduating in May 2025. 
+  
+  Im skilled in C++, Python, SQL, and more, with a passion for software development and data science. With experience improving AI models as an AI Training Analyst, Im eager to bring my technical skills and creativity to impactful projects in Software Engineering or Data Science."
   location         : "Houston, Texas"
   employer         : "University of Houston"
   uri              : "cs.uh.edu"
@@ -117,7 +119,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
