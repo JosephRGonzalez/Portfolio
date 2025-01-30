@@ -22,4 +22,4 @@ What’s Inside:
 
 🎓 Resume: View my [resume](https://josephrgonzalez.github.io/Portfolio/files/resume.pdf) to learn more about my background.
 
-✉️ Let’s Connect: Reach out via email or [LinkedIn](www.linkedin.com/in/joseph-gonzalez-724b49240)!
+✉️ Let’s Connect: Reach out via email or [LinkedIn](https://www.linkedin.com/in/joseph-gonzalez-724b49240)!
